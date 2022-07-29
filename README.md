@@ -18,6 +18,7 @@ Add-AppxProvisionedPackage -online -SkipLicense -PackagePath '.\MicrosoftCorpora
 
 ## Ponto de atenção:
 O novo QuickAssist utiliza Microsoft Edge WebView2, desta forma é necessário realizar a instalação, ou no primeiro acesso no quickassit a instalação é realizada automaticamente. Certifique que a comunicação com URLs estejam liberadas no firewall. 
+
 Webview2 - https://developer.microsoft.com/en-us/microsoft-edge/webview2/
 
 ## Script powershell install new QuickAssist:
