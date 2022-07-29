@@ -4,7 +4,7 @@
 1º Consultar o link pelo Windows App Store
 https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5?hl=en-us&gl=US
 
-2º Acessar site e colar link do QuickAssit da Windows App Store
+2º Acessar site e colar URL do QuickAssit da Windows App Store
 https://store.rg-adguard.net/
 
 3º Nos resultados clicar para fazer Download. 
