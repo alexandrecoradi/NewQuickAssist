@@ -17,7 +17,7 @@ Remove-WindowsCapability -Online -Name 'App.Support.QuickAssist~~~~0.0.1.0' -Err
 Add-AppxProvisionedPackage -online -SkipLicense -PackagePath '.\MicrosoftCorporationII.QuickAssist.AppxBundle'
 
 ## Warning - Ponto de atenção:
-O novo QuickAssist utiliza Microsoft Edge WebView2, desta forma é necessário realizar a instalação, ou no primeiro acesso no quickassit a instalação é realizada automaticamente. Certifique que a comunicação com URLs estejam liberadas no firewall. 
+O novo QuickAssist utiliza Microsoft Edge WebView2, desta forma é necessário realizar a instalação, ou se não for instalado no primeiro acesso no Quickassit a instalação é realizada automaticamente. Certifique que a comunicação com URLs estejam liberadas no firewall. 
 
 Webview2 - https://developer.microsoft.com/en-us/microsoft-edge/webview2/
 
