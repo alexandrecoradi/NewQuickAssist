@@ -1,4 +1,4 @@
-# Install New QuickAssist
+# PowerShell Script to install the new Quick Assist Silently
 
 ## Download do QuickAssist:
 1º Consultar o link pelo Windows App Store
